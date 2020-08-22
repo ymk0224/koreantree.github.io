@@ -1,0 +1,42 @@
+p{
+    margin: 10px 30px 40px 50px;
+    font-weight: 900;
+    font-size: 15px;
+}
+body, h1, h2, h3, h4, h5, h6, p,ul,ol {
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+ul{
+    list-style: none;
+}
+
+
+.container {
+ display: flex; 
+ width: 960px; 
+ margin: auto;
+}
+
+
+.content-box1 {
+    margin: 10px 0 30px 0;
+}
+
+.content-box1 > h1,
+.content-box1 > h2
+ {
+    color: rgb(185, 185, 101);
+    margin-bottom: 20px;
+}
+.content-box1 ul {
+    list-style-type: '- ';
+}
+
+.container ul.contact > li {
+    padding: 30px;
+
+}
