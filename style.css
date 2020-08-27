@@ -40,3 +40,23 @@ ul{
     padding: 30px;
 
 }
+
+input{
+    font-size: 10px;
+    width: 120px;
+    padding: 10px;
+    border: 0px;
+    
+    float: left;
+}
+
+button{
+    width: 100px;
+    height: 25%;
+    border: 0px;
+    background: #1b5ac2;
+    
+    float: right;
+    color: #ffffff;
+
+}
