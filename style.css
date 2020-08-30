@@ -40,16 +40,16 @@ ul{
     padding: 30px;
 
 }
-
+/*
 input{
-    font-size: 10px;
-    width: 120px;
-    padding: 10px;
-    border: 0px;
+    font-size: 100px;
+    width: 100px;
+    padding: 0px;
+    border: 100px;
     
-    float: left;
+    float: right;
 }
-
+*/
 button{
     width: 100px;
     height: 25%;
